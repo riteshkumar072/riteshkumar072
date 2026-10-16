@@ -2,6 +2,12 @@
 
 ###
 
+<p>●  I am deep passionate with Artificial Intelligence and system-level architecture.
+●  My core philosophy is simple: build highly optimized, system-level software that solves real-world problems.
+●  I love diving deep into OS, Linux, and CLI tools to understand exactly how technology works under the hood.</p>
+
+###
+
 <h2 data-importer="text" align="left">Skills</h2>
 
 ###
